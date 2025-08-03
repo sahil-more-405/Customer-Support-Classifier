@@ -1,0 +1,451 @@
+customer_id,query,category
+101,"How do I return a product I no longer want?",return
+102,"I need to send back a faulty item.",return
+103,"How do I initiate a return for a purchase?",return
+104,"I want to return a purchase from last week, what is your policy?",return
+105,"My order was incorrect, I need to return it.",return
+106,"What is your policy for returns?",return
+107,"The item I received is damaged, I need to return it.",return
+108,"Can I get a refund for my purchase?",return
+109,"I'm missing a part from my delivery, can I return it?",return
+110,"How can I get a return label?",return
+111,"I received the wrong item in my shipment.",return
+112,"The item doesn't fit, can I return it?",return
+113,"I need to confirm if my return has been received.",return
+114,"Is it possible to track my return shipment?",return
+115,"I need to return an item, but I lost the original packaging.",return
+116,"Can I exchange an item instead of getting a refund?",return
+117,"What is your return policy for final sale items?",return
+118,"How long does it take for a refund to be processed?",return
+119,"The product I received is damaged.",return
+120,"I need to know the status of my return.",return
+121,"How can I get a replacement for a returned item?",return
+122,"I'm not happy with my purchase, I want to return it.",return
+123,"The item I ordered is not what I expected.",return
+124,"My return has not been processed.",return
+125,"The return window for my item has expired, what can I do?",return
+126,"I need to request a return authorization number.",return
+127,"Where can I find the return form?",return
+128,"Can I return a gift I received?",return
+129,"I was sent the wrong size, I need to return it.",return
+130,"How long do I have to return an item?",return
+131,"The color of the item is not what I expected, I want to return it.",return
+132,"Can I return a used item?",return
+133,"I need to know if I am eligible for a return.",return
+134,"How do I pack my return shipment?",return
+135,"What is your restock fee for returns?",return
+136,"I am having trouble with the online return process.",return
+137,"Can I drop off my return at a physical store?",return
+138,"The item I ordered arrived too late, can I return it?",return
+139,"I received two of the same item, I want to return one.",return
+140,"How do I cancel a return request?",return
+141,"What is the address for returns?",return
+142,"Can I return an item without the original receipt?",return
+143,"I want to return an item that was on sale.",return
+144,"My refund is less than I expected, can you help?",return
+145,"How do I get a new return label?",return
+146,"The item is a gift, how can the recipient return it?",return
+147,"I need to find the return address on your website.",return
+148,"Can I return a defective item after the return window?",return
+149,"How long do refunds usually take to be credited back?",return
+150,"My return package was lost, what should I do?",return
+151,"I need to return an item due to a change of mind.",return
+152,"Can I exchange a product for a different color?",return
+153,"What are the requirements for a full refund?",return
+154,"The item I received is not working, can I return it?",return
+155,"I need assistance with my return.",return
+156,"Can I return an item that was purchased with a gift card?",return
+157,"The item I received is different from the website description.",return
+158,"I am having an issue with the return portal.",return
+159,"My order was an exchange, and I need to return the new item.",return
+160,"I want to return an item I bought from a third-party seller.",return
+161,"What is your exchange policy?",return
+162,"How do I return a product without a box?",return
+163,"I need to return an item that was purchased in a bundle.",return
+164,"Can I get an in-store credit instead of a refund?",return
+165,"I've sent back my item, but have not received a confirmation.",return
+166,"How do I return a digital product?",return
+167,"The item arrived broken, I want to return it.",return
+168,"I need to return an item from an old order.",return
+169,"Can you tell me the steps for a return?",return
+170,"What's the best way to return a fragile item?",return
+171,"I need to return an item that was on a special offer.",return
+172,"How do I handle a return for a product that is too heavy to ship?",return
+173,"Can I get a refund for a gift I received?",return
+174,"My order was a double shipment, I want to return the extra one.",return
+175,"I need to return a subscription item.",return
+176,"How do I get a new return shipping label?",return
+177,"The item I received does not match the size chart, I need to return it.",return
+178,"I've lost the original invoice, can I still return?",return
+179,"How do I start a return on my account?",return
+180,"I want to return an item I bought using a coupon code.",return
+181,"How can I get a refund for a purchase I just made?",return
+182,"The product I received is not compatible with my device.",return
+183,"My return status shows pending, what does that mean?",return
+184,"I need to return an item that came with a free gift.",return
+185,"What is your policy on returning electronics?",return
+186,"Can I return a product if the box is opened?",return
+187,"I need a return authorization number.",return
+188,"How can I return an item that was a gift?",return
+189,"The return process on your site is confusing.",return
+190,"Can you provide me with the details of your return policy?",return
+191,"My refund was processed but I have not received it.",return
+192,"What are the conditions for a return?",return
+193,"Can I return a final sale item?",return
+194,"I need to return an item due to a manufacturer's defect.",return
+195,"The return label is not printing.",return
+196,"How long does it take for you to receive my return?",return
+197,"I want to return a product that I received as an exchange.",return
+198,"Can I return a product that has been used once?",return
+199,"How do I return an item that was part of a package deal?",return
+200,"I am having a problem with the return form.",return
+201,"I want to track my package.",shipping
+202,"When will my order arrive?",shipping
+203,"Do you offer international shipping?",shipping
+204,"The tracking number shows the package was delivered, but I didn't receive it.",shipping
+205,"My package is stuck in transit.",shipping
+206,"Can I change the delivery date for my order?",shipping
+207,"The shipping fee seems too high.",shipping
+208,"My order is late, what should I do?",shipping
+209,"I received a damaged package, but the product inside is okay.",shipping
+210,"My order was shipped to the wrong address.",shipping
+211,"My package says it's waiting for pickup, but I didn't get a notification.",shipping
+212,"What are your international shipping options?",shipping
+213,"I need to find out the status of my shipment.",shipping
+214,"Can I track my package without a tracking number?",shipping
+215,"I need to change my shipping address.",shipping
+216,"What are the different shipping methods available?",shipping
+217,"My package arrived damaged, what should I do?",shipping
+218,"I need to contact the delivery service directly.",shipping
+219,"My delivery was delayed, can I get a refund for shipping?",shipping
+220,"Where is my delivery?",shipping
+221,"How long will it take for my order to be delivered?",shipping
+222,"Can I combine multiple orders into one shipment?",shipping
+223,"I need to know the shipping costs to my location.",shipping
+224,"My package is lost, what should I do?",shipping
+225,"Do you offer free shipping on any orders?",shipping
+226,"I need to know the estimated delivery time for my order.",shipping
+227,"How do I get a tracking number for my order?",shipping
+228,"My tracking information has not been updated in days.",shipping
+229,"Can I upgrade my shipping method after placing the order?",shipping
+230,"I have not received my order yet.",shipping
+231,"My order shows as delivered but I don't have it.",shipping
+232,"Can you tell me where my package is right now?",shipping
+233,"I need to redirect my package to a different address.",shipping
+234,"Is it possible to hold my delivery at a local post office?",shipping
+235,"I need to arrange for a specific delivery time.",shipping
+236,"My package arrived with a ripped box.",shipping
+237,"What are the delivery options for my order?",shipping
+238,"I was charged for shipping but I had a free shipping code.",shipping
+239,"The delivery service left my package in an unsafe location.",shipping
+240,"Can you help me with a delayed order?",shipping
+241,"I need to find out the delivery status of my order.",shipping
+242,"Is there an option for express shipping?",shipping
+243,"I did not receive an email with my tracking information.",shipping
+244,"How do I contact the shipping carrier?",shipping
+245,"I want to know if my order has been shipped yet.",shipping
+246,"My order is late, I want a refund on shipping fees.",shipping
+247,"Where can I see the shipping details for my order?",shipping
+248,"I received a delivery from a carrier I did not choose.",shipping
+249,"What happens if I miss my delivery?",shipping
+250,"How much does shipping cost?",shipping
+251,"What is the warranty period for this product?",warranty
+252,"I need to file a warranty claim.",warranty
+253,"I need to know the status of my warranty claim.",warranty
+254,"Does the warranty cover accidental damage?",warranty
+255,"How do I register my product for the warranty?",warranty
+256,"I need a copy of my original receipt for a warranty claim.",warranty
+257,"What is covered under the manufacturer's warranty?",warranty
+258,"I need to submit a claim for a defective item.",warranty
+259,"My product broke after only a month of use.",warranty
+260,"How can I extend the warranty on my device?",warranty
+261,"My warranty claim was denied, can I appeal?",warranty
+262,"What are the terms and conditions of the warranty?",warranty
+263,"I'm having trouble with my product and think it's a warranty issue.",warranty
+264,"How long does it take for a warranty repair?",warranty
+265,"Do you have a support team for warranty issues?",warranty
+266,"Where can I find the serial number of my product for the warranty?",warranty
+267,"My product stopped working and is still under warranty.",warranty
+268,"Can I transfer the warranty to a new owner?",warranty
+269,"What is the process for an extended warranty?",warranty
+270,"I have a question about the limited warranty.",warranty
+271,"What proof of purchase is required for a warranty claim?",warranty
+272,"How can I check if my product is still under warranty?",warranty
+273,"My product broke after the warranty expired.",warranty
+274,"Is there a cost for a warranty repair?",warranty
+275,"I need to know the warranty details for my recent purchase.",warranty
+276,"The repair for my warranty claim is taking too long.",warranty
+277,"I have a question about the lifetime warranty.",warranty
+278,"My device is not working correctly and is within the warranty period.",warranty
+279,"How do I contact your warranty department?",warranty
+280,"What are the steps to submit a warranty claim?",warranty
+281,"Can I get a replacement product instead of a repair?",warranty
+282,"I need to know if my issue is covered by the warranty.",warranty
+283,"The item I bought came with a one-year warranty.",warranty
+284,"My product is making a strange sound, is this a warranty issue?",warranty
+285,"How do I get a new copy of my warranty information?",warranty
+286,"What happens if my product is no longer in production?",warranty
+287,"I need to know if the warranty is still valid.",warranty
+288,"Can I purchase an additional protection plan?",warranty
+289,"The warranty on my product is about to expire.",warranty
+290,"I want to know the exclusions of my warranty.",warranty
+291,"I need to find out the coverage details for my product.",warranty
+292,"How can I use my warranty to get a new battery?",warranty
+293,"I have a problem with my warranty registration.",warranty
+294,"The product I bought has a defect, is it covered?",warranty
+295,"What are the conditions for a full warranty?",warranty
+296,"I was told my product has a five-year warranty.",warranty
+297,"My warranty claim has been denied unjustly.",warranty
+298,"What is the policy on getting a replacement under warranty?",warranty
+299,"The product broke due to a fault, is it under warranty?",warranty
+300,"I am having trouble with a warranty claim.",warranty
+301,"I want to cancel my recent order.",cancellation
+302,"How can I stop my subscription?",cancellation
+303,"I want to cancel my pre-order.",cancellation
+304,"Can I cancel a single item from my order?",cancellation
+305,"Is there a deadline to cancel an order?",cancellation
+306,"How do I cancel my trial subscription before it renews?",cancellation
+307,"Can I change the size of the item in my order?",cancellation
+308,"I need to cancel my order that has not been shipped.",cancellation
+309,"How do I cancel my subscription permanently?",cancellation
+310,"Is there a fee for canceling an order?",cancellation
+311,"I want to cancel my account, how do I do that?",cancellation
+312,"Can I get a refund for a canceled subscription?",cancellation
+313,"My order status is still pending, can I cancel it?",cancellation
+314,"How long does it take for a cancellation to be processed?",cancellation
+315,"I need to cancel an item but the website won't let me.",cancellation
+316,"Can I cancel my order after it has been shipped?",cancellation
+317,"My order was placed by mistake, I need to cancel it.",cancellation
+318,"How do I cancel a recurring payment?",cancellation
+319,"I need to cancel an order from yesterday.",cancellation
+320,"Is it too late to cancel my purchase?",cancellation
+321,"What is your cancellation policy?",cancellation
+322,"I would like to cancel my order and get my money back.",cancellation
+323,"I need to cancel an item that is on backorder.",cancellation
+324,"Is there a form I need to fill out to cancel?",cancellation
+325,"I need to cancel a product I haven't received yet.",cancellation
+326,"How can I cancel a part of my order?",cancellation
+327,"I want to cancel a service I signed up for.",cancellation
+328,"The website won't let me cancel, what should I do?",cancellation
+329,"I need to cancel an item I pre-ordered.",cancellation
+330,"Can I cancel a digital purchase?",cancellation
+331,"My order was placed by mistake, I want to cancel it.",cancellation
+332,"What are the consequences of canceling an order?",cancellation
+333,"I want to cancel an order that is in transit.",cancellation
+334,"How do I stop my monthly subscription?",cancellation
+335,"I need to know the cut-off time for canceling an order.",cancellation
+336,"Can I cancel an order that has already shipped?",cancellation
+337,"I need to cancel a gift subscription.",cancellation
+338,"The cancel button is not working on the website.",cancellation
+339,"How do I remove an item from my cart and cancel the order?",cancellation
+340,"Is there a cancellation fee?",cancellation
+341,"I want to cancel a subscription but keep my account.",cancellation
+342,"My order was canceled without my permission.",cancellation
+343,"Can I get a full refund for a canceled item?",cancellation
+344,"I want to cancel my order and place a new one.",cancellation
+345,"How do I cancel a duplicate order?",cancellation
+346,"I am trying to cancel an order but it says 'shipped'.",cancellation
+347,"I need to cancel an order from my purchase history.",cancellation
+348,"The cancellation process is confusing, can you help?",cancellation
+349,"I need to cancel a product I have not paid for yet.",cancellation
+350,"Can I cancel a backordered item?",cancellation
+351,"I need to cancel a recurring charge.",cancellation
+352,"How can I cancel an order I just placed?",cancellation
+353,"Is there a way to cancel a specific subscription item?",cancellation
+354,"My order was canceled and I want to know why.",cancellation
+355,"I want to cancel a single item in a bundle.",cancellation
+356,"How do I stop my subscription renewal?",cancellation
+357,"Can I cancel an order that is on hold?",cancellation
+358,"I need to cancel a service and get a prorated refund.",cancellation
+359,"What happens to my payment if I cancel an order?",cancellation
+360,"I want to cancel an order from an old purchase.",cancellation
+361,"Can I cancel my membership?",cancellation
+362,"How do I cancel a subscription for another person?",cancellation
+363,"I need to cancel a reservation I made.",cancellation
+364,"The cancellation process on the app is not working.",cancellation
+365,"Can I cancel a product that is not yet released?",cancellation
+366,"I need to cancel a recurring order.",cancellation
+367,"How do I remove an item from my subscription?",cancellation
+368,"What is the penalty for canceling an order?",cancellation
+369,"I want to cancel an order that I placed with a discount code.",cancellation
+370,"How do I cancel a product I received as a gift?",cancellation
+371,"Can I get a refund if I cancel my order in time?",cancellation
+372,"The item I ordered has a long delay, I want to cancel.",cancellation
+373,"My credit card was charged for a subscription I canceled.",cancellation
+374,"How do I cancel a service without losing my data?",cancellation
+375,"I need to cancel an order with a pending payment.",cancellation
+376,"How do I go about cancelling my order?",cancellation
+377,"I want to cancel an order with an exchange.",cancellation
+378,"Can I cancel a digital download?",cancellation
+379,"The order was placed by a family member, I need to cancel it.",cancellation
+380,"How do I cancel a product from a special offer?",cancellation
+381,"I need to cancel an item and get a replacement.",cancellation
+382,"What is the policy for subscription cancellation?",cancellation
+383,"How do I cancel my order before it ships?",cancellation
+384,"I want to cancel a pre-ordered game.",cancellation
+385,"The item I ordered is out of stock, I want to cancel.",cancellation
+386,"Can I cancel my order after it has been shipped?",cancellation
+387,"How do I cancel a service and get a full refund?",cancellation
+388,"I need to cancel an item that is part of a bundle.",cancellation
+389,"What is the policy for cancellation of digital products?",cancellation
+390,"I want to cancel an order and place a new one.",cancellation
+391,"How can I cancel a subscription on my account?",cancellation
+392,"The website is not letting me cancel my order.",cancellation
+393,"Can I cancel a backordered item before it ships?",cancellation
+394,"I want to cancel a product I no longer need.",cancellation
+395,"How do I cancel an order that has not been confirmed?",cancellation
+396,"What are the cancellation steps for a recurring order?",cancellation
+397,"I need to cancel my subscription and get a refund for the last month.",cancellation
+398,"Can I cancel a service that is currently active?",cancellation
+399,"I want to cancel a product that was a gift.",cancellation
+400,"How do I cancel a purchase I made using a gift card?",cancellation
+401,"I am looking for your return policy, where can I find it?",return
+402,"The item I received is not working, can I get a replacement?",return
+403,"I want to return an item, but the box is damaged.",return
+404,"My package was delayed, can I get a shipping refund?",shipping
+405,"I need to track my order, where can I find the tracking number?",shipping
+406,"Can I change the shipping address after my order has shipped?",shipping
+407,"What are the terms of my warranty?",warranty
+408,"I have a question about submitting a warranty claim.",warranty
+409,"My product is not functioning, is it covered under warranty?",warranty
+410,"How do I cancel an order that is on backorder?",cancellation
+411,"The cancellation button is not working, can you help me?",cancellation
+412,"How do I get a refund for a canceled order?",cancellation
+413,"Where can I find the serial number of my product for a warranty claim?",warranty
+414,"What is the status of my return?",return
+415,"I want to return a product, but I have used it once.",return
+416,"Can I cancel my subscription on my account?",cancellation
+417,"I need to know the shipping time to my location.",shipping
+418,"My package says it's delivered, but I have not received it.",shipping
+419,"What is the warranty coverage for this product?",warranty
+420,"I want to cancel an order from last week.",cancellation
+421,"I need to return an item, how do I start the process?",return
+422,"My order is late, can I get a shipping refund?",shipping
+423,"What is the warranty on a refurbished item?",warranty
+424,"Can I cancel my subscription through a phone call?",cancellation
+425,"I have a question about my order's delivery date.",shipping
+426,"I need to know the process for filing a warranty claim.",warranty
+427,"I want to return a product, what are the next steps?",return
+428,"My delivery was delayed, can I get a refund?",shipping
+429,"I need to cancel my monthly service.",cancellation
+430,"The return form is not loading, can you help?",return
+431,"I need to know the warranty details for my product.",warranty
+432,"How do I get a new tracking number?",shipping
+433,"What is your policy for returning a gift?",return
+434,"What is the deadline for canceling an order?",cancellation
+435,"I need to submit a claim for my warranty.",warranty
+436,"My shipment is lost, what should I do?",shipping
+437,"Can I get a replacement under warranty?",warranty
+438,"How do I get a refund for a canceled subscription?",cancellation
+439,"I want to return an item without the original packaging.",return
+440,"The tracking number I received is not working.",shipping
+441,"What is the cost of shipping to my address?",shipping
+442,"The item I received is broken, can I get a new one under warranty?",warranty
+443,"How do I cancel my subscription renewal?",cancellation
+444,"My refund for a return has not been processed.",return
+445,"I want to cancel my purchase, but the order has already shipped.",cancellation
+446,"I need to know the status of my order.",shipping
+447,"Is there a warranty on replacement parts?",warranty
+448,"Can I get an exchange instead of a refund?",return
+449,"The item I returned was lost, what can I do?",return
+450,"How long does it take to process a warranty claim?",warranty
+451,"My package is stuck in customs, can you help?",shipping
+452,"Can I cancel a single item from my order?",cancellation
+453,"I have not received my order, where is it?",shipping
+454,"What are the steps to return a product?",return
+455,"How can I get a refund on a shipping fee?",shipping
+456,"The warranty on my product has expired.",warranty
+457,"I received a duplicate order, I want to cancel the second one.",cancellation
+458,"Can I get a new return label?",return
+459,"Is there a fee for canceling an order after it has shipped?",cancellation
+460,"How long is the return window?",return
+461,"My package arrived with an item missing, what can I do?",shipping
+462,"The warranty on my product does not cover this issue.",warranty
+463,"I need to cancel my order, but the website is not responding.",cancellation
+464,"How do I return a digital product?",return
+465,"My product broke, is it covered under warranty?",warranty
+466,"How long does it take for an exchange to be processed?",return
+467,"I need to cancel an order that is on hold.",cancellation
+468,"What's the best way to ship a return?",return
+469,"Can I get a replacement if my product fails under warranty?",warranty
+470,"I want to cancel my subscription and get a refund for the current month.",cancellation
+471,"How can I cancel a part of my order?",cancellation
+472,"The tracking number I received is incorrect.",shipping
+473,"I need to return an item, but the box is missing.",return
+474,"Can I get a refund for a gift card I used on a purchase?",cancellation
+475,"My order was shipped to the wrong address, can you help?",shipping
+476,"How do I register my product for warranty online?",warranty
+477,"I need to cancel my pre-order, is that possible?",cancellation
+478,"My order has not shipped, can I cancel it?",cancellation
+479,"What is the warranty policy on your products?",warranty
+480,"Can I get a shipping refund for a delayed order?",shipping
+481,"I want to return a product that I bought during a sale.",return
+482,"The item I need to return has a unique return process.",return
+483,"My product is not working, can I file a warranty claim?",warranty
+484,"I need to cancel my order from yesterday.",cancellation
+485,"How can I get a replacement for a defective item under warranty?",warranty
+486,"What is your return policy for special edition items?",return
+487,"My package is lost, can you send a new one?",shipping
+488,"I need to cancel a recurring charge on my account.",cancellation
+489,"I received a damaged item, I want to return it.",return
+490,"What is your policy for international shipping?",shipping
+491,"How do I submit a warranty claim online?",warranty
+492,"Can I get an in-store credit instead of a refund for a return?",return
+493,"The item I received is not what I expected, I want to return it.",return
+494,"I need to cancel a product that is currently on backorder.",cancellation
+495,"What are the steps to return an unwanted item?",return
+496,"My order has been delayed, can I get an update on shipping?",shipping
+497,"How do I track my order once it has shipped?",shipping
+498,"I have a question about the warranty on my device.",warranty
+499,"Can I cancel a single item from my order after it has shipped?",cancellation
+500,"I need to return an item, how do I get a new label?",return
+501,"What is the cancellation policy on pre-orders?",cancellation
+502,"Can you tell me the process for a product return?",return
+503,"I want to know if my product is covered by warranty.",warranty
+504,"My package is delayed, can I get a refund on shipping?",shipping
+505,"Is there a warranty for a refurbished product?",warranty
+506,"How do I cancel my order before it ships?",cancellation
+507,"The item I ordered is the wrong size, I want to return it.",return
+508,"I need to submit a claim for a defective item.",warranty
+509,"Where is my order being shipped from?",shipping
+510,"Can I change the delivery address for my package?",shipping
+511,"I want to cancel an order that is on hold.",cancellation
+512,"I need to know the status of my return, it's been a week.",return
+513,"The tracking information says my package is at a local post office, what should I do?",shipping
+514,"How do I cancel my subscription online?",cancellation
+515,"My refund for a return is still pending.",return
+516,"Is the product I received covered by a warranty?",warranty
+517,"I need to cancel an item that is part of a bundle.",cancellation
+518,"My package was delivered to the wrong address, can you help?",shipping
+519,"What is the warranty for a digital product?",warranty
+520,"How do I cancel a recurring payment on my account?",cancellation
+521,"I need to return an item, but the box is opened.",return
+522,"Can I get a new product under warranty?",warranty
+523,"My order was a gift, and I need to return it.",return
+524,"I want to cancel a service I signed up for.",cancellation
+525,"How can I get a replacement for a broken item under warranty?",warranty
+526,"How long do I have to return a product?",return
+527,"The item I received is damaged, can I get a shipping refund?",shipping
+528,"I need to know the terms for a warranty claim.",warranty
+529,"Can you tell me the steps for cancelling a purchase?",cancellation
+530,"My tracking number is not working, what should I do?",shipping
+531,"The item I received is not what I expected, I want to return it.",return
+532,"How do I find my warranty information?",warranty
+533,"I need to cancel a product I don't want anymore.",cancellation
+534,"What is your policy for shipping to another country?",shipping
+535,"Can I return an item after the return window has closed?",return
+536,"My order has been on hold for a long time, I want to cancel it.",cancellation
+537,"The item I bought came with a two-year warranty.",warranty
+538,"How do I get a new return label from my account?",return
+539,"Can I cancel a single item from my order after it has shipped?",cancellation
+540,"I need to return a product that is not working.",return
+541,"My product is making a weird noise, is it a warranty issue?",warranty
+542,"I want to cancel my account, how can I do that?",cancellation
+543,"The tracking on my order is stuck, can you help?",shipping
+544,"I need to return an item, but I've lost the invoice.",return
+545,"How do I get a copy of my original receipt for a warranty claim?",warranty
+546,"I need to cancel an order that was placed by mistake.",cancellation
+547,"The shipping fee on my order seems incorrect.",shipping
+548,"What is the process for an exchange, not a refund?",return
+549,"I have a question about the warranty on a bundle I bought.",warranty
+550,"How long does it take for a refund to be processed?",return
